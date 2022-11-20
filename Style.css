@@ -1,0 +1,74 @@
+*{
+    background-color: #ccf5f0;
+}
+#leftbox{
+    float: right;
+    padding-left: 20px;
+}
+#middlebox{
+    float: right;
+    padding-left: 20px;
+}
+#rightbox{
+    float: right;
+    padding-left: 20px;
+}
+#endbox{
+    float: right;
+    padding-left: 20px;
+}
+.picture{
+    display: flex;
+    padding-top: 150px;
+    padding-left: 150px;
+}
+#pic{
+    padding-right: 100px;
+}
+#text{
+    padding-top: 30px;
+    font-size: 30px;
+}
+p.intro{
+    font-size: 14px;
+}
+.second{
+    display: flex;
+}
+#summary{
+    padding-top: 80px;
+    padding-left: 150px;
+}
+.third{
+    display: flex;
+}
+#t{
+    padding-right: 20px;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+#h{
+    padding-top: 80px;
+}
+.fourth{
+    display: flex;
+}
+#c{
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+#j{
+    padding-top:20px
+}
+.fifth{
+    display: flex;
+}
+#tr{
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+#cw{
+    padding-top:20px
+}
